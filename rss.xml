@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sampletheworld]]></title>
+        <description><![CDATA[Sampletheworld]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 18:46:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On Top of the World]]></title>
+            <description><![CDATA[<article><h1>On Top of the World</h1><p>I hope that sharing my experiences with family, friends, and the world will help us all realize the possibilities, keep our minds open and embrace the unknown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2f4b272c4534546b3cb225c62bc7648ce9dd163.jpg"></article>]]></description>
+            <link>undefined46563de0-c3f0-464a-a912-791bb8c69f76/index.html</link>
+            <guid isPermaLink="false">46563de0-c3f0-464a-a912-791bb8c69f76</guid>
+            <pubDate>Thu, 07 Jan 2016 18:46:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
